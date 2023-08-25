@@ -1,0 +1,52 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    background: url(https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?w=996&t=st=1692952189~exp=1692952789~hmac=f7e72bf88b5db1c09a02480f212a828d5bea7c6fecabd5e24217d114b8ce9474);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg {
+    color: white;
+    margin-top: 15%;
+
+}
+
+.bg-img {
+    width: 100%;
+    height: 100%;
+}
+
+.bg-content {
+    display: flex;
+    justify-content: center;
+    
+    text-align: center;
+    color: white;
+    text-align: center;
+}
+.input-icon{
+    background-color: white;
+    width: 300px;
+    height: 43px;
+    border: 0.5px solid black;
+}
+.input-icon1{
+    background-color: white;
+    width: 150px;
+    height: 43px;
+    border: 0.5px solid black;
+}
+
+.drop {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    border: none;
+}
+.search{
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    border: none;
+}
